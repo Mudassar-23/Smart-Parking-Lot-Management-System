@@ -66,7 +66,7 @@ vehicleslist = []
 #### Go to the project directory
 
 ```bash
-  cd cd smart-parking-system
+  cd smart-parking-system
 ```
 
 #### Ensure Python is Installed
